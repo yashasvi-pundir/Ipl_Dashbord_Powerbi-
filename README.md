@@ -47,5 +47,6 @@ The dashboard currently provides:
 For feedback, suggestions, or collaborations:  
 **Email:** [| yashasvipundir5@gmail.com]  
 **LinkedIn:** [https://www.linkedin.com/in/yashasvi-pundir-58a21a279/]
+.
 
 ---
